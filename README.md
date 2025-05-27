@@ -63,9 +63,5 @@ This project explores the productivity patterns of AI developers based on variou
 
 ---
 
-## 📌 Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ai-dev-productivity.git
-   cd ai-dev-productivity
+## ✍️ Author
+Uzma Khatun – AI/ML Enthusiast & Data Science Student
